@@ -1,0 +1,67 @@
+GIMP Palette
+Name: Wplace 63
+Columns: 8
+#
+  0   0   0    black
+ 60  60  60    dark_gray
+120 120 120    gray
+211 211 211    light_gray
+255 255 255    white
+136   0  21    deep_red
+237  28  36    red
+255 127  39    orange
+254 167   0    gold
+249 231  30    yellow
+255 242   0    light_yellow
+  0 166  81    dark_green
+ 34 177  76    green
+181 230  29    light_green
+  0 160 176    dark_teal
+127 179 211    teal
+ 94 189 236    light_teal
+  0 114 188    cyan
+  0  84 166    dark_blue
+ 46  49 146    blue
+ 96  60 186    indigo
+144  19 254    light_indigo
+115  44 123    dark_purple
+160  40 107    purple
+237  10 140    light_purple
+196   2 123    dark_pink
+236  31  96    pink
+248 202 208    light_pink
+102  66  40    dark_brown
+147  99  40    brown
+254 189 119    beige
+170 170 170    medium_gray
+165   0  28    dark_red
+255 137 114    light_red
+193  92  20    dark_orange
+212 179  17    dark_goldenrod
+205 165  17    goldenrod
+232 197  71    light_goldenrod
+ 77 139  58    dark_olive
+ 90 149  74    olive
+180 197 115    light_olive
+ 31 121 151    dark_cyan
+ 62 250 242    light_cyan
+126 199 127    light_blue
+127 126   8    dark_indigo
+ 90  66 132    dark_slate_blue
+120 113 196    slate_blue
+181 174 241    light_slate_blue
+155  34  67    dark_peach
+241 139 117    peach
+243 189 173    light_peach
+218 180  99    light_brown
+112  99  82    dark_tan
+156 132 104    tan
+ 96  85 148    light_tan
+ 81 104  89    dark_beige
+254 245 165    light_beige
+ 96 182  51    dark_stone
+148 140  11    stone
+224 195 150    light_stone
+ 83  55  65    dark_slate
+ 96 117 136    slate
+176  48 129    light_slate
